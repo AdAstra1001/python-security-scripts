@@ -1,1 +1,1 @@
-# python-security-scripts-README.md
+# Docs: add project README
